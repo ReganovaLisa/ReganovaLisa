@@ -13,5 +13,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="600" height="300"/>
+  <img src="https://cdn.ecommercedns.uk/files/3/251663/6/23078626/24-57.jpg" width="600" height="300"/>
 </div>

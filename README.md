@@ -1,10 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" height="150"/>
-   <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW93eDB3ZWM2Y3NhYnpjaDU0OGk2cmYzc2l6OWdzYmxlY2JxbnpoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b2OfgTuVzqpVXq/giphy.gif" height="150"/>
-</div>
-
-<h1 align="left">☀️ Hi, I'm Eliza!</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h2 align="left">☀️ Hi, I'm Eliza!</h2>
+<h3 align="left">I'm a CS Master's graduate with a background in Biomedical Physics, passionate about leveraging AI to advance science and improve lives</h3>
 
 <h2 align="left"> 🛠 Skills</h2>
 <p align="left"> 

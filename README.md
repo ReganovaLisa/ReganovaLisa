@@ -9,7 +9,7 @@ I'm a CS Master's graduate with a background in Biomedical Physics, passionate a
 
 🤔 **Past Projects:** Conducted statistical analyses on biomedical data, including blood parameters, heart rate, and EEG signals.  
 
-⚡️ **Passion:** Creating data visualizations! I love how they simplify complex phenomena while being a fun and creative process.  
+⚡️ **Passion:** Creating data visualizations! I love how they simplify complex phenomena, and it is also just a lot of fun!  
 
 🧠 **Learning Journey:** Improving my German and Italian skills (and temporarily paused on French – for now!).  
 

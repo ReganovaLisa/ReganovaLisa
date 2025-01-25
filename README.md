@@ -1,7 +1,23 @@
-<h2 align="left">☀️ Hi, I'm Eliza!</h2>
-<h3 align="left">I'm a CS Master's graduate with a background in Biomedical Physics, passionate about leveraging AI to advance science and improve lives</h3>
+## ☀️ Hi, I'm Eliza!
+I'm a CS Master's graduate with a background in Biomedical Physics, passionate about leveraging AI to advance science and improve lives
 
-<h2 align="left"> 🛠 Skills</h2>
+
+
+
+
+👩‍💻 **Currently:** Exploring uncertainty estimation in Large Language Models.  
+
+🤔 **Past Projects:** Conducted statistical analyses on biomedical data, including blood parameters, heart rate, and EEG signals.  
+
+⚡️ **Passion:** Creating data visualizations! I love how they simplify complex phenomena while being a fun and creative process.  
+
+🧠 **Learning Journey:** Improving my German and Italian skills (and temporarily paused on French – for now!).  
+
+👯‍♀️ **Looking for Opportunities:** Excited to collaborate with research groups and contribute to impactful projects!  
+
+
+
+<h3 align="left"> 🛠 Skills</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
